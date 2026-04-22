@@ -3,8 +3,9 @@
 This project simulates vehicle behavior at an intersection using the SUMO traffic simulator and custom Python logic for vehicle control, logging, and visualization. <br>
 
 **code is kept private. For code access or questions, please contact me**
+<br>
 
-#❗Project Significance 
+# ❗Project Significance 
 This project explores a traffic‑light‑free intersection control strategy designed to reduce delays, minimize stop‑and‑go behavior, and improve overall traffic flow efficiency
 
 # Implementation
