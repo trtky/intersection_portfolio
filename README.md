@@ -1,11 +1,11 @@
-# Intersection SUMO Simulation
+# 🚗 Intersection SUMO Simulation
 
 This project simulates vehicle behavior at an intersection using the SUMO traffic simulator and custom Python logic for vehicle control, logging, and visualization. <br>
-This project demonstrates a way to control traffic without traffic lights, leading to a more fluent traffic flow.
 
-**code is kept private**
-**For code access or questions, please contact me at: tst1880@googlemail.com**
+**code is kept private. For code access or questions, please contact me**
 
+#❗Project Significance 
+This project explores a traffic‑light‑free intersection control strategy designed to reduce delays, minimize stop‑and‑go behavior, and improve overall traffic flow efficiency
 
 # Implementation
 
@@ -13,12 +13,12 @@ This project demonstrates a way to control traffic without traffic lights, leadi
 - The speeds are assigned so the vehicles arrive at the intersection with a set time gap in between
 - A P - controller is used to control the vehicle speeds
 
-## Programs used
+# Programs used
 
 - Python 
 - SUMO
 
-### Python Libraries used
+## Python Libraries used
 
 - traci
 - numpy 
